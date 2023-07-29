@@ -1,0 +1,27 @@
+{
+  "name": "@leuffen/sipr",
+  "version": "1.0.1",
+  "description": "",
+  "directories": {
+    "tpl": "tpl"
+  },
+  "files": [
+
+  ],
+
+  "workspaces": [
+    "workspaces/*"
+  ],
+  "author": "",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "scripts": {
+
+    "build": "echo 'Nothing to do here'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
