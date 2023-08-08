@@ -1,12 +1,15 @@
 {
   "name": "@leuffen/sipr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "directories": {
     "tpl": "tpl"
   },
   "files": [
-
+    "tpl",
+    "src",
+    "README.md",
+    "LICENSE"
   ],
 
   "workspaces": [

@@ -27,6 +27,7 @@ Bassel Osman
 Facharzt für Augenheilkunde
 Erwerb der Approbation im Jahr 2014 in Dresden
 Facharztanerkennung für Augenheilkunde im Jahr 2021 in Hannover
+{: .address}
 
 ### Zuständige Kammer 
 
@@ -36,6 +37,7 @@ Hanauer Landstraße 15
 T 069 976720
 info@laekh.de
 https://www.laekh.de/
+{: .address}
 
 ### Zuständige Kassenärztliche Vereinigung
 
@@ -45,6 +47,7 @@ Europa-Allee 90
 T 069 247417777
 beratung-frankfurt@kvhessen.de
 www.kvhessen.de
+{: .address}
 
 ### Berufsrechtliche Regelungen
 -https://www.gesetze-im-internet.de/b_o/BJNR018570961.html
