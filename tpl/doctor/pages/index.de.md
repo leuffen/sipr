@@ -1,29 +1,23 @@
 ---
-description: |
-  Herzlich willkommen in der Zahnarztpraxis von  Dr. M.C. Müller in Hannover. Wir
-  bieten moderne zahnmedizinische Leistungen auf höchstem Niveau.
+description: Buchen Sie jetzt Ihren Termin online bei der Augenarztpraxis Bassel Osman.
+  Wir bieten spezialisierte Makuladiagnostik, Lasertherapie, intravitreale Injektionen
+  und Sehschule. Erfahren Sie mehr über unsere Leistungen!
+keywords: Augenarztpraxis, Bassel Osman, Makuladiagnostik, Lasertherapie, intravitreale
+  Injektionen, Sehschule, Augenheilkunde, Makuladegeneration, Netzhauterkrankungen
 lang: de
 layout: website
-oder: 1
 permalink: /
 pid: pages/index
-ptags:
-- nav
-- footer
+ptags: []
 published: true
-short_title: Home
-skipHead: true
-title: Zahnärztin Dr. M.C. Müller in Hannover - Zahnmedizin mit Herz
-type: website
+seoScore: 8
+title: Augenpraxis Osman - Spezialisierte Makuladiagnostik und Behandlung
 ---
 
+# Willkommen bei Ihrer <br>Augenpraxis B. Osman
+{: layout="use: #hero-max; cols:2; class: box"}
 
-
-
-# Willkommen bei Ihrer <br>Zahnarztpraxis mit Herz
-{: layout="use: #hero-max"}
-
-![](cdn:///mueller-k25/v/14/1920x1280_1200x800_992x661_768x512_480x320_256x256/happy-woman-showing-hand-heart-gesture.avif_jpeg)
+![](cdn:///leu-stock/v/26/1920x1280_1200x800_992x661_768x512_480x320_256x256/AdobeStock_114414482.avif_jpeg)
 
 [Jetzt Termin online vereinbaren](/kontakt){: .btn .btn-primary .btn-lg}
 
@@ -31,94 +25,83 @@ type: website
 ## Headerbar
 {: layout="use: #hero-ribbon"}
 
-### Akuelles
-
-Bitte bringen Sie weiterhin zum Besuch eine FFP2 Maske mit!
+### Aktuelles
 
 
-### Notfall?
 
-Außerhalb der Öffnungszeiten erreichen Sie den zahnärztlichen Notdienst unter [(0511) 31 10 31](tel:+490511311031)
+### Notfallbehandlung
 
-
-### Unsere Sprechzeiten
-
-Wir sind persönlich von **Montag - Freitag** in der Zeit von **7:00 - 18:00 Uhr** für Sie da.
+In unserer Augenpraxis bieten wir eine umfassende Diagnostik und Behandlung von Sehstörungen bei Kindern und Erwachsenen an.
 
 
-## Zahnarztpraxis Dr. M.C. Müller in Hannover
+### Sprechstundenzeiten
+
+{% include el/openhours.html %}
+
+
+
+## Augenpraxis B. Osman in Wiesbaden
 {: layout="use: #sec-card-2col" .no-object-fit}
 
-> Ein Herz für Sie und Ihre Zähne
+> Kompetente und individuelle Augenheilkunde
 
-Wir bieten erstklassige zahnmedizinische Leistungen auf höchstem Niveau. Professionelle Zahnreinigung, Früherkennungsunersuchungen,
-Individualprophylaxe, hochwertige Füllungen, Wurzelbehandlungen, Zahnersatz, Zahnfleischbehandlungen und mehr.
+Bei uns erwartet Sie eine individuelle und kompetente augenärztliche Betreuung. Wir legen großen Wert auf eine umfassende Diagnostik und beraten Sie gerne zu den bestmöglichen Behandlungsmethoden. 
 
-Unser Motto “Ein Herz für Sie und Ihre Zähne” zeigt unser Engagement für jeden Patienten. Als Familienzahnarzt in Hannover-Südstadt heißen wir Patienten aller Altersgruppen willkommen.
-
-[Kontaktieren Sie uns für einen Termin!](/kontakt)
+Kontaktieren Sie uns für weitere Informationen oder vereinbaren Sie einen Termin!
 
 
-![](cdn:///mueller-k25/v/13/480x461_256x256/image.avif_png){: style="padding: 40px"}
+![](cdn:///leu-stock/v/68/1920x1280_1200x800_992x661_768x512_480x320_256x256/close-up-view-of-beautiful-blue-female-eye-2021-08-26-22-25-43-utc.avif_jpeg){: style="padding: 40px"}
 
 
 ## Unsere Leistungen
-{: layout="use: #multi_card_section; cols:3"}
+{: layout="use: #sec-multi-card; cols:2"}
 
-### Zahnerhaltung
+### Makuladiagnostik
 
-![](cdn:///leu-stock/v/60/1920x1358_1200x849_992x702_768x543_480x339_256x256/female-dentist-and-patient-using-x-ray-machine-2022-03-13-03-47-25-utc.avif_jpeg)
+![](cdn:///leu-stock/v/66/1920x1278_1200x799_992x661_768x512_480x320_256x256/eye-doctor-examinating-a-young-patient-2022-01-11-14-50-37-utc.avif_jpeg)
 
-Wir sind spezialisiert auf die Versorgung mit sahnsubstand-schonenden, langlebigen Kompositfüllungen.
+Wir sind spezialisiert auf die Diagnose von Makuladegeneration und bieten individuelle Behandlungsmöglichkeiten an.
 
+[Unsere Diagnostik](/leistungen/diagnostik.de.html){: .btn .btn-primary .p-3}
 
-### Zahnersatz
+### Lasertherapie
 
-![](cdn:///leu-stock/v/61/1920x1280_1200x800_992x661_768x512_480x320_256x256/smiling-dentist-explaining-tooth-implantation-2021-09-24-03-53-51-utc.avif_jpeg)
+![](cdn:///leu-stock/v/67/1920x1280_1200x800_992x661_768x512_480x320_256x256/laser-eye-vision-correction-2021-08-28-14-52-23-utc.avif_jpeg)
 
-Wir sind spezialisiert auf die Versorgung mit sahnsubstand-schonenden, langlebigen Kompositfüllungen.
+Unsere Lasertherapie wird zur Behandlung von verschiedenen Augenerkrankungen eingesetzt und bietet schonende und effektive Ergebnisse.
 
-### Zahnchirurgie
-
-![](cdn:///leu-stock/v/12/1920x1280_1200x800_992x661_768x512_480x320_256x256/AdobeStock_264395936.avif_jpeg)
-
-Wir sind spezialisiert auf die Versorgung mit sahnsubstand-schonenden, langlebigen Kompositfüllungen.
+[Unsere Therapien](/leistungen/therapien.de.html){: .btn .btn-primary .p-3}
 
 
-## &nbsp;
-
-[Alle Leistungen anzeigen](/leistungen){: .btn .btn-primary .btn-lg .p-3 .mb-5}
-{: .text-center}
 
 
-## Vorstellung des Arztes
+
+## Testemonial
 {: layout="use: #sec-testimonial-ribbon"}
 
-![Bild Arzt](cdn:///mueller-k25/v/14/1920x1280_1200x800_992x661_768x512_480x320_256x256/happy-woman-showing-hand-heart-gesture.avif_jpeg)
+![](cdn:///leu-stock/v/59/1920x1280_1200x800_992x661_768x512_480x320_256x256/happy-woman-showing-hand-heart-gesture.avif_jpeg)
 
-„Zuwendung, Vertrauen und Einfühlung bilden die Grundpfeiler meiner Praxis. Ich kümmere mich nicht nur um Ihre Zahngesundheit, sondern begleite Sie auch mit Verständnis und Fürsorge. Mit modernen Innovationen und umfassender Vorsorge sorge ich für Ihr strahlendes Lächeln. In meiner Praxis finden Sie eine Atmosphäre der Geborgenheit, in der Sie sich rundum wohlfühlen können. Ihre Gesundheit steht bei mir im Mittelpunkt. Vertrauen Sie auf meine Expertise und lassen Sie sich einfühlsam behandeln.“ 
+„Bei Dr. Osman fühle ich mich bestens aufgehoben. Er nimmt sich viel Zeit für die Untersuchungen und erklärt alles ausführlich. Seine Kompetenz und Freundlichkeit schaffen Vertrauen und ich empfehle die Praxis gerne weiter.“ 
 
- — Dr. Michal-Constanze Müller
+— Anna M., Patientin
 
 
-## Ein kompetentes Team für moderne Zahnmedizin
+## Ein erfahrener Augenarzt für Ihre Gesundheit
 {: layout="use: #sec-card-2col"}
 
 ![](cdn:///leu-stock/v/64/1920x1280_1200x800_992x661_768x512_480x320_256x256/AdobeStock_495434983.avif_jpeg)
 
-> Ein Team mit Herz
+> Ihr vertrauensvoller Ansprechpartner
 
-Sie werden in unserer Praxis von zwei Zahnärztinnen behandelt: Der Praxisinhaberin Frau Dr. Michal-Constanze Müller und 
-der angestellten Assistenzzahnärztin Frau Melanie Plitt. 
+Dr. Osman ist ein erfahrener Facharzt für Augenheilkunde und spezialisiert auf die Behandlung von Makuladegeneration und anderen Netzhauterkrankungen.
 
-Unterstützt werden die beiden Behandler durch ein intensiv geschultes und langjährig erfahrenes Team von 
-Prophylaxehelferinnen sowie Spezialistinnen in der Behandlungsassistenz, der Medizinprodukteaufbereitung und der Verwaltung.
+Unser freundliches und kompetentes Team unterstützt Dr. Osman mit langjähriger Erfahrung und professioneller Betreuung.
 
-[Mehr zu uns...](/ueber-uns){: .btn .btn-primary }
+[Erfahren Sie mehr über uns...](/ueber-uns){: .btn .btn-primary }
 
 
-## Sie haben Fragen? Wir helfen gerne weiter
-{: layout="use: #form_contact"}
+## Haben Sie Fragen? Wir sind für Sie da
+{: layout="use: #cta-form"}
 
 
 ---

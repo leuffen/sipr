@@ -2,7 +2,9 @@
 layout: legal
 permalink: /datenschutz
 lang: de
-ptags: ["footernav", "mininav"]
+ptags:
+- footernav
+- mininav
 title: Datenschutz
 pid: pages/datenschutz
 description: Datenschutz
@@ -228,4 +230,3 @@ sowie Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz Ihr
 Seiten von Jameda in der Datenschutzerklärung unter: https://www.jameda.de/jameda/datenschutz.php
 
 {% endif %}
-

@@ -1,43 +1,48 @@
 ---
-description: 'Ihr Zahnarzt in Hannover-Südstadt:  professionelle Zahnreinigung,Parodontologie,
-  Zahnerhalt und Zahnersatz. Kontaktieren Sie uns für Ihren Termin!'
+description: 'Bisher keine Beschreibung'
 icon: bi bi-phone
 image: https://cdn.leuffen.de//leu-stock/v/22/1200x544/AdobeStock_410652591.jpeg
 lang: de
 layout: article
 order: 4
 permalink: /kontakt
-pid: pages/kontakt
+pid: pages/kontakt-anfahrt
 ptags:
 - nav
 published: true
-short_title: Kontakt
 skipHead: false
-title: Kontakt
+title: Kontakt & Anfahrt
 type: article
 ---
+## Hier finden Sie uns
+{: layout="use: #sec-card-feature"}
 
+> Unsere Augenpraxis befindet sich in Wiesbaden
 
+<map data-map-url="{{site.data.general.map_url}}" style="--joda-use: map()"></map>
 
-## Ihre Praxis in Hannover-Südstadt
-{: layout="use: #sec-card-2col"}
-
-> So erreichen Sie uns
-
-
-<p>{% include el/address.html %}</p>
+{% include el/address.html %}
 
 
 ---
+{: layout="use: accordion()"}
 
-Öffnungszeiten
+### [i class="bi bi-bus-front-fill text-primary"] Anfahrt mit Bus und Bahn
 
-{% include el/openhours.html %}
+Anfahrtsbeschreibung mit Bus und Bahn
+
+### [i class="bi bi-bicycle text-primary"] Anfahrt mit dem Fahrrad
+
+Anfahrtsbeschreibung mit dem Fahrrad
+
+### [i class="bi bi-car-front-fill text-primary"] Anfahrt mit dem Auto
+
+Anfahrtsbeschreibung mit dem Auto
 
 
 
 ## Schreiben Sie uns. Wir melden uns umgehend bei Ihnen.
-{: layout="use: #form_contact"}
+{: layout="use: #cta-form"}
 
 
 ---
@@ -51,4 +56,3 @@ type: article
 [textarea name="Ihre Nachricht" required .mb-3 style="height: 120px;"]
 [input type="checkbox" name="Ihre Nachricht" label="Ich akzeptiere die Datenschutzbestimmungen" required .mb-3]
 [input type="submit" name="Absenden" value="Absenden" class="btn btn-primary" .my-3]
-

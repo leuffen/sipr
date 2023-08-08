@@ -16,68 +16,39 @@ skipHead: false
 title: Über uns
 type: article
 ---
-
-
-
-
-## Ein kompetentes Team für Ihre Gesundheit
-{: layout="use: #card_section"}
+## Ein kompetentes Team für Ihre Augengesundheit
+{: layout="use: #sec-card-2col"}
 
 ![](cdn:///leu-stock/v/64/1920x1280_1200x800_992x661_768x512_480x320_256x256/AdobeStock_495434983.avif_jpeg)
 
-> Ein Team mit Herz
+> Ein Team mit Leidenschaft
 
-Sie werden in unserer Praxis von zwei Zahnärztinnen behandelt: Der Praxisinhaberin Frau Dr. Michaela Mustermann und
-dem anstellten Arzt Max Muster.
+In unserer Praxis werden Sie von Augenarzt Bassel Osman behandelt. Er ist ein erfahrener Facharzt für Augenheilkunde. Unterstützt wird er durch ein intensiv geschultes und langjährig erfahrenes Team von medizinischen Fachangestellten, spezialisiert auf Makuladiagnostik und Lasertherapie. 
 
-Unterstützt werden die beiden Behandler durch ein intensiv geschultes und langjährig erfahrenes Team von
-Prophylaxehelferinnen sowie Spezialistinnen in der Behandlungsassistenz, der Medizinprodukteaufbereitung und der Verwaltung.
+## Bassel Osman
+{: layout="use: #sec-card-2col"}
 
+> Facharzt für Augenheilkunde
 
+![Bild des Arztes](https://cdn.leuffen.de/hyperpage-components/v1.0//img/default-person-male.jpg)
 
-
-## Dr. Max Mustermann
-{: layout="use: #card_section"}
-
-> Facharzt für XY, Facharztfür XY
-
-![Bild der Ärztin](https://cdn.leuffen.de/hyperpage-components/v1.0//img/default-person-female.jpg)
-
-Mein Name ist Max Mustermann. Ich habe 1996-2001 an der Medizinischen Hochschule Hannover Zahnmedizin studiert und promoviert. 	
-2010 habe ich die seit über 40 Jahren bestehende Praxis in der
-Heidornstraße 2 von meinem Vorgänger Zahnarzt Gunter Schalla übernommen.
-Ich bin in der Südstadt von Hannover aufgewachsen und dem Stadtteil stark
-verbunden. Ich freue mich daher sehr, in meinem Heimatstadtteil Hannover Südstadt die Tradition zahnärztlicher Versorgung fortführen zu dürfen.
+Als Facharzt für Augenheilkunde führe ich eine spezialisierte Praxis in Wiesbaden Mitte. Ihre Augen sind bei uns in sicheren Händen. In meiner Praxis bieten wir neben allgemeines Spektrum auch eine professionelle Makuladiagnostik und Behandlung, Lasertherapie und Intravitreale Injektionen.
 
 |----|--------------------------------------------------------------------|
-| 2010 – heute | **Niedergelassen in eigener Praxis in der Heidornstraße 2 in 30171 Hannover-Südstadt**
-| 2002-2009 | **Assistenzzeit und Tätigkeit als Juniorpartnerin in Gemeinschaftspraxis / Praxisgemeinschaft**          |
-| 2001 | **Staatsexamen Med. Hochschule Hannover / Approbation als Zahnärztin** |
-|  | **Studium der Zahnheilkunde an der Med. Hochschule Hannover**   |
+| 01.07.2023–heute  | Niedergelassen in eigene Praxis in der Rheinstr. 59 in 65185 Wiesbaden** |
+| 2020-2023         | Tätigkeit als Facharzt für Augenheilkunde, Schwerpunkt Medical Retina und Makulaerkrankungen |
+|  2016-2020        | Weiterbildung in der Universitätsklinikum Giessen und Marburg-Augenklinik** |
+|  2014-2016        | Assistenzarzt  (Städtisches Klinikum Dresden-Augenklinik und Augenärzte im Gäubodenpark) |
+|  2009-2013        | Assistenzarzt (Allgemeinchirurgie, ER-Doctor American University of Beirut- Medical Center) |
+|  2009             |  Promotion : ST-Elevation Myocardial Infarktion - University of Aleppo |
+|  2003-2009        | Medizinstudium - University of Aleppo     |
 {: .table}
 
-## Nächster Arzt
-{: layout="use: #card_section"}
+## Kontakt
+{: layout="use: #cta-base"}
 
-> Zahnärztin
+Informationen zu Behandlungen, Sprechstundenzeiten und Kontaktdaten finden Sie auf den nachfolgenden Seiten. 
 
-![ xx xx](https://cdn.leuffen.de/hyperpage-components/v1.0//img/default-person-female.jpg)
-
-Mein Name ist Max Mustermann. Ich habe 1996-2001 an der Medizinischen Hochschule Hannover Zahnmedizin studiert und promoviert. 	
-2010 habe ich die seit über 40 Jahren bestehende Praxis in der
-Heidornstraße 2 von meinem Vorgänger Zahnarzt Gunter Schalla übernommen.
-Ich bin in der Südstadt von Hannover aufgewachsen und dem Stadtteil stark
-verbunden. Ich freue mich daher sehr, in meinem Heimatstadtteil Hannover Südstadt die Tradition zahnärztlicher Versorgung fortführen zu dürfen.
-
-|----|--------------------------------------------------------------------|
-| 02/23 – heute | **Assistenzzahnärztin in der Zahnarztpraxis Dr. M.C. Müller in der Heidornstraße 2 in 30171 Hannover-Südstadt**
-| 2022 | **Staatsexamen Med. Hochschule Hannover / Approbation als Zahnärztin** |
-|  | **Studium der Zahnheilkunde an der Med. Hochschule Hannover**   |
-{: .table}
-                          
-
-## Hier erfahren Sie mehr über uns
-{: layout="use: #cfa_section"}
-
-[Unsere Leistungen](/leistungen)
+[Unsere Diagnostik](/leistungen/diagnostik.de.html)
+[Unsere Therapien](/leistungen/therapien.de.html)
 [Kontakt](/kontakt)
