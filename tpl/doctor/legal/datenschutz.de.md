@@ -7,10 +7,10 @@ ptags:
 - mininav
 title: Datenschutz
 pid: pages/datenschutz
-description: Datenschutz
+description: "Wir nehmen den Schutz Ihrer persönlichen Daten ernst. \U0001F6E1️ Erfahren
+  Sie mehr über unsere Datenschutzpraktiken und üben Sie Ihre Rechte aus. Klicken
+  Sie jetzt!"
 ---
-
-
 Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten
 vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
 
@@ -93,9 +93,11 @@ der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlan
 Werbeinformationen, etwa durch Spam-E-Mails, vor.
 
 
+{% if site.data.general.datenschutzbeauftragter_name %}
 ## Datenschutzbeauftragter
 
 ### Gesetzlich vorgeschriebener Datenschutzbeauftragter
+
 
 Wir haben für unser Unternehmen einen Datenschutzbeauftragten bestellt.
 
@@ -105,6 +107,7 @@ Wir haben für unser Unternehmen einen Datenschutzbeauftragten bestellt.
 Telefon: <a href="tel:{{site.data.general.legal.phone1}}">{{site.data.general.phone1_text}}</a><br>
 <a href="tel:{{site.data.general.email}}" >{{site.data.general.email}}</a><br>
 
+{% endif %}
 
 ## Datenerfassung auf unserer Website
 

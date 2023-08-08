@@ -1,5 +1,6 @@
 ---
-description: Impressum
+description: "Besuchen Sie Dr. Bassel Osman, Facharzt für Augenheilkunde in Wiesbaden.
+  \U0001F441️ Erkundigen Sie sich über unsere Berufsregelungen. Jetzt anrufen! \U0001F4DE"
 lang: de
 layout: legal/impressum
 permalink: /impressum
